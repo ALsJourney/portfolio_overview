@@ -6,7 +6,8 @@ const Home: NextPage = () => {
     <>
       <div className="container mx-auto flex min-h-screen flex-col py-10 px-24">
       <IntroductionComponent />
-      <SkillsOverview />
+        <SkillsOverview />
+        
       </div>
     </>
   );
