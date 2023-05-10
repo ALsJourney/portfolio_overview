@@ -14,7 +14,7 @@ export default function SkillsOverview() {
       {/* Section with all the logos */}
       <div className="mx-auto grid max-w-[1250px] grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 xl:grid-cols-7 mt-10">
         <Image src={nextjs as string} alt="NextJS" width={140} height={40} />
-        <Image src={react as string} alt="React" width={140} height={40} />
+        {/* <Image src={react as string} alt="React" width={140} height={40} /> */}
         <Image src={threejs as string} alt="threejs" width={140} height={40} />
         <Image src={rust as string} alt="Rust" width={140} height={40} />
         <Image src={solana as string} alt="Solana" width={140} height={40} />
