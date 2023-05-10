@@ -27,7 +27,7 @@ export default function IntroductionComponent() {
                 Doge Academy
               </Link>
             </li>
-            <li>Masters Degree in IT & Mobile Software Security</li>
+            <li>Masters Degree in Cyber Security</li>
           </ul>
         </div>
     </>
